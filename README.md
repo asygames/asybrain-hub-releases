@@ -2,6 +2,8 @@
 
 Public Windows and Linux installers and signed updates for AsyBrain HUB.
 
+Use AsyBrain Agent 0.2.15 or newer with HUB 0.1.3. Update Agent first so both applications share the same Plans schema and worker dispatch capabilities.
+
 Download versioned packages from [Releases](https://github.com/asygames/asybrain-hub-releases/releases).
 
 - Windows: per-user NSIS installer, with signed automatic updates.
