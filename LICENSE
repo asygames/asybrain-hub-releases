@@ -1,0 +1,58 @@
+ASYBRAIN PROPRIETARY SOFTWARE LICENSE
+Version 1.0 — All Rights Reserved
+
+Copyright (c) 2026 Colotin Marian. All Rights Reserved.
+
+1. OWNERSHIP
+
+All original source code, compiled applications, documentation, original designs, graphics, assets, and related materials included in this repository that are owned by Colotin Marian (collectively, the "Software") are proprietary. All rights not expressly granted are reserved by Colotin Marian (the "Owner").
+
+2. PROHIBITED ACTIVITIES
+
+Without the Owner's prior express written permission, no person or organization is granted permission to:
+
+(a) copy, reproduce, or reuse the Software or its source code, except as expressly permitted in Section 3 or by applicable law;
+(b) modify, adapt, translate, patch, reverse engineer, or create derivative works of the Software, except to the extent such restrictions are prohibited by applicable law;
+(c) sell, resell, rent, lease, sublicense, or commercially exploit the Software;
+(d) publish, distribute, or redistribute the Software, whether modified or unmodified;
+(e) incorporate the Software or substantial portions of its proprietary code into another application, product, service, or hosted offering;
+(f) offer unauthorized commercial hosting, licensing, or distribution of the Software; or
+(g) remove or alter copyright, proprietary, or license notices.
+
+3. LIMITED PERMISSION FOR OFFICIAL APPLICATION BINARIES
+
+A person who lawfully obtains an official, unmodified application binary distributed by the Owner is granted a limited, non-exclusive, non-transferable permission to download, install, and run that binary for its intended purpose, subject to applicable product terms and account or subscription conditions.
+
+This permission does not authorize source-code use, modification, resale, redistribution, sublicensing, or the creation of derivative works. It does not authorize access to private repositories, services, accounts, databases, or backups.
+
+4. REPOSITORY ACCESS
+
+Access to this repository, whether private or public, does not itself grant a license to copy, modify, redistribute, resell, or incorporate the Software into another work. Use of GitHub is subject to applicable GitHub Terms of Service, including any permissions required for the operation of that service.
+
+5. WRITTEN AUTHORIZATION
+
+Exceptions require the Owner's prior express written authorization. Any such authorization may specify the permitted uses, duration, distribution rights, commercial terms, and other conditions. Silence, public visibility, or technical access does not constitute authorization.
+
+6. THIRD-PARTY MATERIAL AND EXISTING LICENSES
+
+This License applies only to material the Owner has the legal right to license. Third-party libraries, dependencies, contributions, and other materials remain subject to their own copyright terms and licenses. This License neither overrides those rights nor revokes permissions validly granted under previous applicable licenses. Nothing in this License limits rights that cannot be restricted under applicable law.
+
+7. BRANDING
+
+No rights are granted to use the names ASYBRAIN, ASYREMOTE, ASYSHIELD, ASYGAMES, associated logos, or other original branding owned by the Owner for commercial exploitation or to imply sponsorship, endorsement, or affiliation. Rights belonging to third parties are unaffected.
+
+8. TERMINATION
+
+Any permission granted under this License terminates upon material violation of its terms, subject to applicable law. Following termination, unauthorized use must cease. Rights that cannot legally be terminated are unaffected.
+
+9. DISCLAIMER
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER SHALL NOT BE LIABLE FOR DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, EXCEPT WHERE SUCH LIABILITY CANNOT LAWFULLY BE EXCLUDED.
+
+10. RESERVATION OF RIGHTS
+
+No license or other right is granted except as expressly stated above or separately authorized in writing by Colotin Marian.
+
+ALL RIGHTS RESERVED.
