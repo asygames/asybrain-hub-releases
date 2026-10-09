@@ -1,17 +1,9 @@
-# AsyBrain HUB releases
+# AsyBrain HUB — retired
 
-Public Windows and Linux installers and signed updates for AsyBrain HUB.
+AsyBrain HUB is withdrawn from the active ecosystem as of 2026-10-09. This repository preserves historical source or release artifacts; it is not the runtime or update source for current Relay and Agent installations. No new HUB release is planned.
 
-Use AsyBrain Agent 0.2.15 or newer with HUB 0.1.3. Update Agent first so both applications share the same Plans schema and worker dispatch capabilities.
+Use [AsyBrain Relay and asybrain.win](https://github.com/asygames/asybrain) and the independent [AsyBrain Agent for Windows and Linux](https://github.com/asygames/asybrain-relay-agent). Agent updates remain in the separate [shared Agent releases repository](https://github.com/asygames/asyindex-releases). It must remain active.
 
-Download versioned packages from [Releases](https://github.com/asygames/asybrain-hub-releases/releases).
+Historical HUB [releases](https://github.com/asygames/asybrain-hub-releases/releases), Git history and signed artifacts are preserved. Local HUB databases, Plans and browser/conversation data are not deleted. Before upgrading an older Agent with HUB Plans, back up the current SQLite store consistently, inspect active leases, and import only into an absent Agent-owned Plans destination; never restore intentionally deleted plans from an older backup.
 
-- Windows: per-user NSIS installer, with signed automatic updates.
-- Linux: AppImage for signed automatic updates; DEB and RPM packages for manual package updates.
-- Automatic check intervals: 5 minutes, 1, 6, 12, 24 hours or a custom interval.
-- Updates wait until active work is finished.
-
-All builds, tests and release verification run locally. GitHub Actions is not used.
-The stable updater endpoint is `releases/download/stable/latest.json`. It is published only after the referenced versioned artifacts are verified from GitHub.
-
-Signatures authenticate the downloaded package and bind it to the announced version. Windows Authenticode is separate from updater signatures.
+The repository is archived only after independent Relay/Agent validation and publication. The previous implementation and its documentation remain available through Git history.
